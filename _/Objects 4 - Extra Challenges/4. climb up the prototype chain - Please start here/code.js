@@ -1,0 +1,1 @@
+//create a function which takes an object and returns the list of own and inherited properties/methods and values of the object: climb up the prototype chain. Return format: list of two arrays

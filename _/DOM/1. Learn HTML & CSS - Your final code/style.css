@@ -1,0 +1,46 @@
+h1{
+    color: deeppink;
+}
+h3{
+    color: deepskyblue;
+}
+.orange{
+    color: orange;
+}
+.green{
+    color: green;
+}
+#paragraph1{
+    font-size: 20px;
+    font-weight: bold;
+}
+div{
+    background-color: beige;
+    padding: 5px;
+}
+#childDiv{
+    float: right;
+}
+li{
+    padding: 20px 0 20px 50px;
+    list-style: none;
+    background-image: url(http://images.clipartpanda.com/fruit-clip-art-niEdaKMiA.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: left center;
+}
+
+table{
+    font-family: 'Allura', cursive;
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 5px;
+}
+tr:nth-child(even){
+    background-color: aliceblue;
+}

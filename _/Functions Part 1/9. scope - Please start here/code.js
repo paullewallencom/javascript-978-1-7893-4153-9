@@ -1,0 +1,1 @@
+//This is an introduction to scope. More details can be found in the advanced sections.
